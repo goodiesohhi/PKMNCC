@@ -1,0 +1,2 @@
+# PKMNCC
+Pokemon CrimsonCobalt
